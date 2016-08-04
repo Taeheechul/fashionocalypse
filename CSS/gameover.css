@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Share Tech';
+    font-size: 50px;
+    text-align: center;
+}
+p {
+    font-family: 'Share Tech';
+    font-size: 30px;
+    text-align: center;
+}
+
+button {
+    color: red;
+    font-size: 50px;
+    font-family: 'Share Tech';
+}
+body {
+    text-align: center;
+}
